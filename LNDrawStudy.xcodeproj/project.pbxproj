@@ -15,6 +15,15 @@
 		9250DBFF225DE1AE00BB10F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DBFE225DE1AE00BB10F4 /* main.m */; };
 		9250DC09225DE1AE00BB10F4 /* LNDrawStudyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DC08225DE1AE00BB10F4 /* LNDrawStudyTests.m */; };
 		9250DC14225DE1AF00BB10F4 /* LNDrawStudyUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DC13225DE1AF00BB10F4 /* LNDrawStudyUITests.m */; };
+		9250DC25225DE42200BB10F4 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9250DC22225DE42100BB10F4 /* 3.jpg */; };
+		9250DC26225DE42200BB10F4 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9250DC23225DE42100BB10F4 /* 2.jpg */; };
+		9250DC27225DE42200BB10F4 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9250DC24225DE42100BB10F4 /* 1.jpg */; };
+		9250DC2A2260799F00BB10F4 /* LNClearReadImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DC292260799F00BB10F4 /* LNClearReadImageView.m */; };
+		9250DC302260A3D300BB10F4 /* LNBlinkedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DC2F2260A3D300BB10F4 /* LNBlinkedImageView.m */; };
+		9250DC6C2266D7A200BB10F4 /* DJXScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DC6A2266D7A200BB10F4 /* DJXScrollView.m */; };
+		9250DC6F2269699D00BB10F4 /* LNScrollAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DC6E2269699D00BB10F4 /* LNScrollAnimation.m */; };
+		9250DC992275932D00BB10F4 /* UIImageView+WebImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DC982275932D00BB10F4 /* UIImageView+WebImage.m */; };
+		9250DC9C2276E08900BB10F4 /* LNBasePictureBrowsing.m in Sources */ = {isa = PBXBuildFile; fileRef = 9250DC9B2276E08900BB10F4 /* LNBasePictureBrowsing.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +60,21 @@
 		9250DC0F225DE1AF00BB10F4 /* LNDrawStudyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LNDrawStudyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9250DC13225DE1AF00BB10F4 /* LNDrawStudyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LNDrawStudyUITests.m; sourceTree = "<group>"; };
 		9250DC15225DE1AF00BB10F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9250DC22225DE42100BB10F4 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		9250DC23225DE42100BB10F4 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		9250DC24225DE42100BB10F4 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		9250DC282260799F00BB10F4 /* LNClearReadImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LNClearReadImageView.h; sourceTree = "<group>"; };
+		9250DC292260799F00BB10F4 /* LNClearReadImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LNClearReadImageView.m; sourceTree = "<group>"; };
+		9250DC2E2260A3D300BB10F4 /* LNBlinkedImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LNBlinkedImageView.h; sourceTree = "<group>"; };
+		9250DC2F2260A3D300BB10F4 /* LNBlinkedImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LNBlinkedImageView.m; sourceTree = "<group>"; };
+		9250DC6A2266D7A200BB10F4 /* DJXScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DJXScrollView.m; sourceTree = "<group>"; };
+		9250DC6B2266D7A200BB10F4 /* DJXScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DJXScrollView.h; sourceTree = "<group>"; };
+		9250DC6D2269699D00BB10F4 /* LNScrollAnimation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LNScrollAnimation.h; sourceTree = "<group>"; };
+		9250DC6E2269699D00BB10F4 /* LNScrollAnimation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LNScrollAnimation.m; sourceTree = "<group>"; };
+		9250DC972275932D00BB10F4 /* UIImageView+WebImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImageView+WebImage.h"; sourceTree = "<group>"; };
+		9250DC982275932D00BB10F4 /* UIImageView+WebImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+WebImage.m"; sourceTree = "<group>"; };
+		9250DC9A2276E08900BB10F4 /* LNBasePictureBrowsing.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LNBasePictureBrowsing.h; sourceTree = "<group>"; };
+		9250DC9B2276E08900BB10F4 /* LNBasePictureBrowsing.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LNBasePictureBrowsing.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +125,16 @@
 		9250DBEE225DE1AD00BB10F4 /* LNDrawStudy */ = {
 			isa = PBXGroup;
 			children = (
+				9250DC972275932D00BB10F4 /* UIImageView+WebImage.h */,
+				9250DC982275932D00BB10F4 /* UIImageView+WebImage.m */,
+				9250DC9A2276E08900BB10F4 /* LNBasePictureBrowsing.h */,
+				9250DC9B2276E08900BB10F4 /* LNBasePictureBrowsing.m */,
+				9250DC70226969B500BB10F4 /* ScrollAnimation */,
+				9250DC692266D58A00BB10F4 /* ScrollIImages */,
+				9250DC2D2260A3BB00BB10F4 /* Blinked */,
+				9250DC2C226099C700BB10F4 /* LNDraw */,
+				9250DC2B226099A900BB10F4 /* ClearReadImage */,
+				9250DC21225DE42100BB10F4 /* images */,
 				9250DBEF225DE1AD00BB10F4 /* AppDelegate.h */,
 				9250DBF0225DE1AD00BB10F4 /* AppDelegate.m */,
 				9250DBF2225DE1AD00BB10F4 /* ViewController.h */,
@@ -130,6 +164,59 @@
 				9250DC15225DE1AF00BB10F4 /* Info.plist */,
 			);
 			path = LNDrawStudyUITests;
+			sourceTree = "<group>";
+		};
+		9250DC21225DE42100BB10F4 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9250DC22225DE42100BB10F4 /* 3.jpg */,
+				9250DC23225DE42100BB10F4 /* 2.jpg */,
+				9250DC24225DE42100BB10F4 /* 1.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		9250DC2B226099A900BB10F4 /* ClearReadImage */ = {
+			isa = PBXGroup;
+			children = (
+				9250DC282260799F00BB10F4 /* LNClearReadImageView.h */,
+				9250DC292260799F00BB10F4 /* LNClearReadImageView.m */,
+			);
+			path = ClearReadImage;
+			sourceTree = "<group>";
+		};
+		9250DC2C226099C700BB10F4 /* LNDraw */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LNDraw;
+			sourceTree = "<group>";
+		};
+		9250DC2D2260A3BB00BB10F4 /* Blinked */ = {
+			isa = PBXGroup;
+			children = (
+				9250DC2E2260A3D300BB10F4 /* LNBlinkedImageView.h */,
+				9250DC2F2260A3D300BB10F4 /* LNBlinkedImageView.m */,
+			);
+			path = Blinked;
+			sourceTree = "<group>";
+		};
+		9250DC692266D58A00BB10F4 /* ScrollIImages */ = {
+			isa = PBXGroup;
+			children = (
+				9250DC6B2266D7A200BB10F4 /* DJXScrollView.h */,
+				9250DC6A2266D7A200BB10F4 /* DJXScrollView.m */,
+			);
+			path = ScrollIImages;
+			sourceTree = "<group>";
+		};
+		9250DC70226969B500BB10F4 /* ScrollAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				9250DC6D2269699D00BB10F4 /* LNScrollAnimation.h */,
+				9250DC6E2269699D00BB10F4 /* LNScrollAnimation.m */,
+			);
+			path = ScrollAnimation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,8 +322,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9250DC26225DE42200BB10F4 /* 2.jpg in Resources */,
 				9250DBFC225DE1AE00BB10F4 /* LaunchScreen.storyboard in Resources */,
 				9250DBF9225DE1AE00BB10F4 /* Assets.xcassets in Resources */,
+				9250DC27225DE42200BB10F4 /* 1.jpg in Resources */,
+				9250DC25225DE42200BB10F4 /* 3.jpg in Resources */,
 				9250DBF7225DE1AD00BB10F4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,7 +353,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				9250DBF4225DE1AD00BB10F4 /* ViewController.m in Sources */,
+				9250DC992275932D00BB10F4 /* UIImageView+WebImage.m in Sources */,
+				9250DC302260A3D300BB10F4 /* LNBlinkedImageView.m in Sources */,
+				9250DC6C2266D7A200BB10F4 /* DJXScrollView.m in Sources */,
+				9250DC6F2269699D00BB10F4 /* LNScrollAnimation.m in Sources */,
+				9250DC2A2260799F00BB10F4 /* LNClearReadImageView.m in Sources */,
 				9250DBFF225DE1AE00BB10F4 /* main.m in Sources */,
+				9250DC9C2276E08900BB10F4 /* LNBasePictureBrowsing.m in Sources */,
 				9250DBF1225DE1AD00BB10F4 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -436,6 +532,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 376F3VTG68;
 				INFOPLIST_FILE = LNDrawStudy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -452,6 +549,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 376F3VTG68;
 				INFOPLIST_FILE = LNDrawStudy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
